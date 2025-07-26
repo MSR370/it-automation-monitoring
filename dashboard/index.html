@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>System Dashboard</title>
+    <meta http-equiv="refresh" content="10">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; }
+        .container { max-width: 600px; margin: 50px auto; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); }
+        h2 { text-align: center; }
+        ul { list-style-type: none; padding: 0; }
+        li { margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>System Dashboard</h2>
+        <p><strong>Last updated:</strong> 2025-07-26 17:24:08</p>
+        <ul>
+            <li><strong>CPU Usage:</strong> <span style="color:green">38.6%</span></li>
+            <li><strong>Memory Usage:</strong> <span style="color:orange">74.6%</span></li>
+            <li><strong>Disk Usage:</strong> <span style="color:orange">71.3%</span></li>
+        </ul>
+
+        <canvas id="usageChart" width="400" height="200"></canvas>
+    </div>
+
+    <script>
+        const ctx = document.getElementById('usageChart').getContext('2d');
+        const usageChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['CPU', 'Memory', 'Disk'],
+                datasets: [{
+                    label: 'Usage %',
+                    data: [38.6, 74.6, 71.3],
+                    backgroundColor: ['green', 'orange', 'orange'],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 100
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
