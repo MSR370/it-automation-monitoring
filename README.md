@@ -1,9 +1,28 @@
-# it-automation-monitoring
-# 🛠️ System Automation with Python
+# 🛠️ it-automation-monitoring
 
-This project automates common system monitoring tasks using Python scripts. It includes CPU, memory, disk, and network monitoring, as well as process checks and log storage – all organized for easy use and extensibility.
+This project automates common system monitoring tasks using Python and Bash. It tracks CPU, memory, disk, network, and process info, and saves logs with timestamps. The scripts are modular, extensible, and can be scheduled with cron. A Flask dashboard and alert system are coming soon.
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Mac%20%7C%20Linux-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Status](https://img.shields.io/badge/Progress-Week%201%20Complete-brightgreen)
+
+---
+
+## 📚 Table of Contents
+- [Project Structure](#project-structure)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Sample Commands](#️-sample-commands)
+- [Log Examples](#log-examples)
+- [Web Dashboard (Coming Soon)](#-web-dashboard-coming-soon)
+- [Progress Roadmap](#-progress-roadmap)
+
+---
 
 ## 📁 Project Structure
+
+
 
 it_automation_dash_monitoring/
 ├── logs/
@@ -15,11 +34,6 @@ it_automation_dash_monitoring/
 │ └── backup_script.py (optional)
 ├── README.md
 └── requirements.txt
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Mac%20%7C%20Linux-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Status](https://img.shields.io/badge/Progress-Week%201%20Complete-brightgreen)
 
 ## 🚀 Features
 
@@ -60,4 +74,19 @@ python3 scripts/cpu_memory_monitor.py
  ☁️ Upload logs to AWS S3 (Week 3)
 
  🚀 Deploy Flask dashboard (Week 4)
+
+## 🔄 Progress Roadmap
+
+ | Week | Task                               | Status         |
+| ---- | ---------------------------------- | -------------- |
+| 1️⃣  | Bash/Python monitoring + logging   | ✅ Complete     |
+| 2️⃣  | Flask web dashboard (HTML + Flask) | 🚧 In Progress |
+| 3️⃣  | Alerts (email/Telegram) + AWS S3   | ⏳ Upcoming     |
+| 4️⃣  | Deployment + documentation polish  | 🔜 Upcoming    |
+
+
+## ✅ Author
+MSR370
+
+MIT License © 2025
 
