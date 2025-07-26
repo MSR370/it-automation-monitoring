@@ -1,0 +1,26 @@
+2025-07-26 12:59:39 - CPU Usage: 39.5% - Memory Usage: 70.8%
+2025-07-26 13:00:30 - CPU Usage: 12.5% - Memory Usage: 70.9%
+2025-07-26 13:01:46 - CPU Usage: 35.7% - Memory Usage: 70.6%
+2025-07-26 13:13:37 - CPU Usage: 18.0% - Memory Usage: 71.1%
+2025-07-26 13:18:20 - CPU Usage: 16.9% - Memory Usage: 71.9% - Battery Status: Plugged In
+2025-07-26 13:19:03 - CPU Usage: 14.1% - Memory Usage: 71.9%
+-----System Information-----
+Date and Time: Sat Jul 26 13:45:57 IST 2025
+
+CPU Usage:
+CPU usage: 12.17% user, 23.68% sys, 64.14% idle 
+PID   COMMAND          %CPU TIME     #TH   #WQ #PORTS MEM   PURG  CMPRS PGRP PPID STATE    BOOSTS      %CPU_ME %CPU_OTHRS UID FAULTS  COW    MSGSENT  MSGRECV  SYSBSD  SYSMACH  CSW      PAGEINS IDLEW   POWER INSTRS CYCLES USER                   #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+
+Memory Usage:
+
+Disk Usage:
+Filesystem       Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s5s1  113Gi   14Gi  6.7Gi    68%  553830 1182288650    0%   /
+
+Uptime:
+13:45  up  1:31, 2 users, load averages: 3.62 4.52 4.11
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+apple    console  -                12:16    1:29 -
+apple    s006     -                13:28       1 -bash         ÿ¿    /bin/bash      
+_______________
+logged at Sat Jul 26 13:47:13 IST 2025

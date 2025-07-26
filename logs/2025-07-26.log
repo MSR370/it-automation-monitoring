@@ -1,0 +1,95 @@
+-----System Information-----
+Date and Time: Sat Jul 26 15:04:15 IST 2025
+
+CPU Usage:
+CPU usage: 11.82% user, 23.0% sys, 65.17% idle 
+PID   COMMAND          %CPU TIME     #TH   #WQ #PORTS MEM   PURG  CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT  MSGRECV  SYSBSD   SYSMACH  CSW      PAGEINS IDLEW   POWER INSTRS CYCLES USER                   #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+
+Memory Usage:
+
+Disk Usage:
+Filesystem       Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s5s1  113Gi   14Gi  5.8Gi    72%  553830 1182288650    0%   /
+
+Uptime:
+15:04  up  2:49, 2 users, load averages: 4.89 4.60 4.63
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+apple    console  -                12:16    2:47 -
+apple    s006     -                13:28       - Uptime
+_______________
+-----System Information-----
+Date and Time: Sat Jul 26 15:04:52 IST 2025
+
+CPU Usage:
+CPU usage: 11.74% user, 22.81% sys, 65.43% idle 
+PID   COMMAND          %CPU TIME     #TH   #WQ #PORTS MEM   PURG  CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT  MSGRECV  SYSBSD   SYSMACH  CSW      PAGEINS IDLEW   POWER INSTRS CYCLES USER                   #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+
+Memory Usage:
+
+Disk Usage:
+Filesystem       Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s5s1  113Gi   14Gi  5.8Gi    72%  553830 1182288650    0%   /
+
+Uptime:
+15:04  up  2:49, 2 users, load averages: 7.19 5.32 4.89
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+apple    console  -                12:16    2:48 -
+apple    s006     -                13:28       - Uptime
+_______________
+-----System Information-----
+Date and Time: Sat Jul 26 15:05:00 IST 2025
+
+CPU Usage:
+CPU usage: 37.50% user, 23.36% sys, 39.13% idle 
+PID   COMMAND          %CPU TIME     #TH   #WQ #PORTS MEM   PURG  CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT  MSGRECV  SYSBSD   SYSMACH  CSW      PAGEINS IDLEW   POWER INSTRS CYCLES USER                   #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+
+Memory Usage:
+
+Disk Usage:
+Filesystem       Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s5s1  113Gi   14Gi  5.8Gi    72%  553830 1182288650    0%   /
+
+Uptime:
+15:05  up  2:50, 2 users, load averages: 6.69 5.24 4.87
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+apple    console  -                12:16    2:48 -
+apple    s006     -                13:28       - Uptime
+_______________
+-----System Information-----
+Date and Time: Sat Jul 26 15:05:28 IST 2025
+
+CPU Usage:
+CPU usage: 11.57% user, 22.80% sys, 65.61% idle 
+PID   COMMAND          %CPU TIME     #TH   #WQ #PORTS MEM   PURG  CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT  MSGRECV  SYSBSD   SYSMACH  CSW      PAGEINS IDLEW   POWER INSTRS CYCLES USER                   #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+
+Memory Usage:
+
+Disk Usage:
+Filesystem       Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s5s1  113Gi   14Gi  5.8Gi    72%  553830 1182288650    0%   /
+
+Uptime:
+15:05  up  2:50, 2 users, load averages: 5.74 5.18 4.86
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+apple    console  -                12:16    2:49 -
+apple    s006     -                13:28       - Uptime
+_______________
+-----System Information-----
+Date and Time: Sat Jul 26 15:10:30 IST 2025
+
+CPU Usage:
+CPU usage: 12.26% user, 22.32% sys, 65.40% idle 
+PID   COMMAND          %CPU TIME     #TH   #WQ #PORTS MEM   PURG  CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT  MSGRECV  SYSBSD   SYSMACH  CSW      PAGEINS IDLEW   POWER INSTRS CYCLES USER                   #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+
+Memory Usage:
+
+Disk Usage:
+Filesystem       Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s5s1  113Gi   14Gi  5.8Gi    72%  553830 1182288650    0%   /
+
+Uptime:
+15:10  up  2:55, 2 users, load averages: 4.54 4.75 4.72
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+apple    console  -                12:16    2:54 -
+apple    s006     -                13:28       5 -bash         ÿ¿    /bin/bash      
+_______________
